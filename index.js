@@ -18,7 +18,7 @@ Promo Shopeefood Richeese Factory
 💯 Diskon 90% max 45rb 👇
 spf.shopee.co.id/5L42s4oOXs
 
-gofood grabfood kode go grab shopee food sfood voucher gacoan daget gojek gratis ongkir thr
+gofood grabfood kode go grab shopee food sfood voucher gacoan daget gojek gratis ongkir thr Gary Iskak Raisa 
 `;
 
     // 📸 Upload dua gambar
@@ -36,3 +36,4 @@ gofood grabfood kode go grab shopee food sfood voucher gacoan daget gojek gratis
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
