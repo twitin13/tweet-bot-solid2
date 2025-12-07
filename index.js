@@ -16,9 +16,10 @@ const client = new TwitterApi({
 Promo Shopeefood Richeese Factory
 
 💯 Diskon 90% max 45rb 👇
-spf.shopee.co.id/5L42s4oOXs
+https://spf.shopee.co.id/gIn5cDvy2
+https://spf.shopee.co.id/gIn5cDvy2
 
-gofood grabfood kode go grab shopee food sfood voucher gacoan daget gojek gratis ongkir thr Gary Iskak Raisa 
+gofood grabfood kode go grab shopee food sfood voucher gacoan daget gojek gratis ongkir thr vc malming malam minggu pagii sarapan 
 `;
 
     // 📸 Upload dua gambar
@@ -36,4 +37,5 @@ gofood grabfood kode go grab shopee food sfood voucher gacoan daget gojek gratis
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
