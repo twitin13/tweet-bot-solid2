@@ -2,7 +2,7 @@ name: Twitter Bot Auto Post - solid2
 
 on:
   schedule:
-    - cron: "0 */1 * * *"  # Jalan tiap 1 jam
+    - cron: "0 */3 * * *"  # Jalan tiap 1 jam
   workflow_dispatch:        # Bisa juga dijalankan manual
 
 jobs:
